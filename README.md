@@ -1,9 +1,10 @@
 # Recipt Generator (.xlsm)
 
 
-This [vba](https://www.excel-easy.com/vba.html) project was developed to help me manage my condominium. Every month it’s supposed send a receipt to each neighbor as soon the monthly payment is received. This receipt is just a prove that the manager receives the payment.
+This [vba](https://www.excel-easy.com/vba.html) project was developed to help me manage my condominium.  
+Every month it’s supposed send a receipt to each neighbor as soon the monthly payment is received. This receipt is just a prove that the manager receives the payment.
 
-The project allows you:
+The template allows you:
 - Insert the name of your condominium
 - Insert information about condominium in "From" (address, phone number, email)
 - The date is automatically updated as soon you open the file (present date)
