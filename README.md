@@ -22,7 +22,7 @@ Simple choose the month in the list.
 
 :heavy_exclamation_mark: To add information unhide the collums M to T.
 
-![picture](update_neigbor.PNG)
+![picture](update_neighbor.PNG)
 
 **Value of each Fraction**
 
