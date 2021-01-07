@@ -16,25 +16,25 @@ The template allows you:
 
 Simple choose the month in the list.
 
-![picture](update_month.PNG)
+![picture](Recipt_Generator/update_month.PNG)
 
 **Neighbor Information**
 
 :heavy_exclamation_mark: To add information unhide the collums M to T.
 
-![picture](update_neighbor.PNG)
+![picture](Recipt_Generator/update_neighbor.PNG)
 
 **Value of each Fraction**
 
 Simply select cell H13 and check the function.
 
-![picture](update_cost.PNG)
+![picture](Recipt_Generator/update_cost.PNG)
 
 **Location of generated PDF**
 
 Select Developer Tab to check the vba code and then Visual Basic.
 
-![picture](update_path.PNG)
+![picture](Recipt_Generator/update_path.PNG)
 
 
 Enjoy :smile:
