@@ -12,6 +12,6 @@ The template allows you:
 - You can choose the month that the receipt refers
 - When the file is finished, you can generate a pdf file just hitting the button
 
-**Choose month that the recipt refers**
+<p> **Choose month that the recipt refers** </p>
 
 Simple choose the month in the list.
