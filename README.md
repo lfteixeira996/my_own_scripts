@@ -12,6 +12,23 @@ The template allows you:
 - You can choose the month that the receipt refers
 - When the file is finished, you can generate a pdf file just hitting the button
 
-<p> **Choose month that the recipt refers** </p>
+**Choose month that the recipt refers**
 
 Simple choose the month in the list.
+
+![picture](update_month.PNG)
+
+**Neighbor Information**
+
+:heavy_exclamation_mark: To add information unhide the collums M to T.
+
+![picture](update_neigbor.PNG)
+
+**Value of each Fraction**
+
+Simply select cell H13 and check the function.
+
+![picture](update_cost.PNG)
+
+Enjoy :smile:
+
