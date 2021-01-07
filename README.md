@@ -30,5 +30,12 @@ Simply select cell H13 and check the function.
 
 ![picture](update_cost.PNG)
 
+**Location of generated PDF**
+
+Select Developer Tab to check the vba code and then Visual Basic.
+
+![picture](update_path.PNG)
+
+
 Enjoy :smile:
 
